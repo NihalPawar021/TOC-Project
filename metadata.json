@@ -1,0 +1,6 @@
+{
+  "name": "TOC DFA Equivalence Tester",
+  "description": "Interactive Theory of Computation tool to test equivalence of two Deterministic Finite Automata (DFAs) using Joint State Product Construction with step-by-step tracing, graph visualization, and counterexample generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
